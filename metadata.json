@@ -1,0 +1,6 @@
+{
+  "name": "متابع الحضور والدوام اليومي | Attendance Tracker",
+  "description": "تطبيق متكامل لمتابعة وتسجيل الحضور والدوام اليومي، مزود بتنبيهات دورية ذكية، إحصائيات تفاعلية، وتقارير شهرية قابلة للتصدير والطباعة.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
